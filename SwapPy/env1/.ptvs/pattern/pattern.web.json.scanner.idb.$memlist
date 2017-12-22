@@ -1,0 +1,7 @@
+py_make_scanner
+NUMBER_RE
+make_scanner
+_import_c_make_scanner
+c_make_scanner
+__all__
+re

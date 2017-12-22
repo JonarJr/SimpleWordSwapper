@@ -1,0 +1,5 @@
+StringIO
+doctest
+lzwdecode
+sys
+LZWDecoder
